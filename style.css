@@ -80,12 +80,14 @@ a:hover{
         color: black;
         background-color: rgb(248, 59, 59);
         border-radius: 5px 5px 5px 5px;
+        padding:20px;
         
     }
     p{
         color: black;
         background-color: rgb(208, 177, 177);
         border-radius: 5px 5px 5px 5px;
+        padding:20px;
     }
 
 }
